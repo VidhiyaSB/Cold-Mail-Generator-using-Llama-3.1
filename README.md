@@ -14,7 +14,7 @@ This project is a Cold Email Generator that utilizes the Llama 3.1 model to gene
 - **LangChain**: Framework used for creating and managing language model chains.
 - **WebBaseLoader**: For web scraping to gather and process data.
 - **Pipellm**: For forming and managing chains to pass data to the language model.
-- *Streamlit**: For the User Interface.
+- **Streamlit**: For the User Interface.
 
 ## Getting Started
 
