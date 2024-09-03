@@ -49,7 +49,7 @@ This script will use the Llama 3.1 model via GroqCloud and the LangChain framewo
 Contributions are welcome! Please open an issue or submit a pull request with your changes.
 
 ### License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/VidhiyaSB/Cold-Mail-Generator-using-Llama-3.1/blob/main/LICENSE) file for details.
 
 ### Contact
 For any questions or issues, please contact www.x.com/@VidhiyaSB.
