@@ -31,11 +31,11 @@ This project is a Cold Email Generator that utilizes the Llama 3.1 model to gene
    git clone https://github.com/VidhiyaSB/Cold-Mail-Generator-using-Llama-3.1.git
    cd Cold-Mail-Generator-using-Llama-3.1
 ### Configuration
-Set Up GroqCloud:
+### Set Up GroqCloud:
 
 Ensure you have access to GroqCloud and set up the API key. This key should be kept secure. You can set it in your environment variables or a configuration file.
 
-Configure API Key:
+### Configure API Key:
 
 Add your Groq API key to a configuration file or environment variable
 
