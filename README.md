@@ -52,4 +52,4 @@ Contributions are welcome! Please open an issue or submit a pull request with yo
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/VidhiyaSB/Cold-Mail-Generator-using-Llama-3.1/blob/main/LICENSE) file for details.
 
 ### Contact
-For any questions or issues, please contact www.x.com/@VidhiyaSB.
+For any questions or issues, please contact [me](www.x.com/@VidhiyaSB).
