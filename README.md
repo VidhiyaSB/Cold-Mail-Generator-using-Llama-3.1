@@ -1,5 +1,4 @@
 # Cold-Mail-Generator-using-Llama-3.1
-# Cold Email Generator Using Llama 3.1
 
 ## Overview
 
@@ -9,7 +8,7 @@ This project is a Cold Email Generator that utilizes the Llama 3.1 model to gene
 
 - **Llama 3.1**: A powerful language model with 70 billion parameters for generating responses.
 - **GroqCloud**: Provides faster execution of the Llama model using its LPU technology.
-- **Groq API Key**: `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` (Keep this key secure and do not expose it in public repositories)
+- **Groq API Key**: 'your_api_key'
 - **ChatGroq**: Utilizes the LangChain framework to interact with the Llama model.
 - **ChromaDB**: A lightweight vector database used for storing and retrieving data efficiently.
 - **LangChain**: Framework used for creating and managing language model chains.
